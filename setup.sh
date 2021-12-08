@@ -20,7 +20,7 @@ rm /tmp/Ace3 -rf
 
 # Download LibDropDownExtension Lib
 mkdir LibDropDownExtension-1.0
-curl -Lo LibDropDownExtension-1.0/LibDropDownExtension.lua "https://github.com/Vladinator89/wow-addon-libdropdownextension/blob/master/LibDropDownExtension.lua"
+curl -Lo LibDropDownExtension-1.0/LibDropDownExtension.lua "https://raw.githubusercontent.com/Vladinator89/wow-addon-libdropdownextension/master/LibDropDownExtension.lua"
 
 # Download/Extract LibDropDownMenu Lib
 curl -Lo /tmp/LibDropDownMenu.zip "https://www.wowace.com/projects/libuidropdownmenu/files/latest"
